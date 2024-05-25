@@ -1,8 +1,15 @@
-# React + Vite
+# Ignite feed
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto feito durante o aprendizado da trila de **ReactJS** no Ignite da Rocketseat. Durante o periodo de 2 dias foram disponibilizados acessos gratuitos a plataforma, desta forma utilizei para aprender mais sobre ReactJS, desenvolvendo essa aplicação. Fazendo essa aplicação aprendi os conceitos basicos de react, como: useState, imutabilidade, conceito de props e css module.
 
-Currently, two official plugins are available:
+## Techs usadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* ReactJS
+* Vite
+* Date-fns (Bibiloteca para formatação de datas)
+* Phosphor-react (Bibiloteca para icones)
+
+## Screenshots
+
+![Tela principal](./src/assets/github/01.png);
+![Funcionamento app](./src/assets/github/02.gif);
