@@ -11,5 +11,5 @@ Projeto feito durante o aprendizado da trila de **ReactJS** no Ignite da Rockets
 
 ## Screenshots
 
-![Tela principal](./src/assets/github/01.png);
-![Funcionamento app](./src/assets/github/02.gif);
+![Tela principal](./src/assets/github/01.png)
+![Funcionamento app](./src/assets/github/02.gif)
